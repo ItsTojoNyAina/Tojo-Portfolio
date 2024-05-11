@@ -25,7 +25,7 @@ const About = () => {
         transition={{duration: 0.5}}
         className='w-full lg:w-1/2 '>
                 <div className='flex justify-center lg:justify-start'>
-                    <p className='my-2 max-w-xl py-6'>Currently, I'm wrapping up my bachelor's degree in Software and Hardware Engineering at ISPM Anstobolo while immersing myself in the study of Mathematics at the University of Antananarivo. Additionally, I hold a Diploma of English from the English Teaching Program at Antsahavola, Antananarivo. My journey reflects a passion for both technical expertise and linguistic fluency, driving me towards innovation and effective communication.</p>
+                    <p className='my-2 max-w-xl py-6'>Currently, I'm wrapping up my bachelor's degree in Software and Hardware Engineering at ISPM Antsobolo while immersing myself in the study of Mathematics at the University of Antananarivo. Additionally, I hold a Diploma of English from the English Teaching Program at Antsahavola, Antananarivo. My journey reflects a passion for both technical expertise and linguistic fluency, driving me towards innovation and effective communication.</p>
                 </div>
         </motion.div>
       </div>
