@@ -44,7 +44,7 @@ const Project = () => {
                 <motion.h1  whileInView={{ opacity: 1, x: 0 }}
                     initial={{ opacity: 0, x: -100 }}
                     transition={{ duration: 1 }}className='mb-2 font-semibold'>To-Do List</motion.h1>
-                <a href="src/Other/To-Do/To-Do List/Index.html" className={styles.imageLink} onMouseEnter={() => handleMouseEnter(1)} onMouseLeave={() => handleMouseLeave(1)}>
+                <a href="https://663fa1bb5f644a105a002b00--whimsical-starlight-dbf542.netlify.app/" className={styles.imageLink} onMouseEnter={() => handleMouseEnter(1)} onMouseLeave={() => handleMouseLeave(1)}>
                   <motion.img
                     whileHover={{ opacity: 0.7 }}                   
                     whileInView={{ opacity: 1, x: 0 }}
@@ -65,7 +65,7 @@ const Project = () => {
                 <motion.h1  whileInView={{ opacity: 1, x: 0 }}
                     initial={{ opacity: 0, x: 100 }}
                     transition={{ duration: 1 }}className='mb-2 font-semibold'>Portfilio</motion.h1>
-                <a href="/Users/macintoshhd/Desktop/REACT-PORTFOLIO/src/Other/Portfolio/Portfolio/index.html" className={styles.imageLink} onMouseEnter={() => handleMouseEnter(2)} onMouseLeave={() => handleMouseLeave(2)}>
+                <a href="https://65bcb76f3ab67a63e9252707--whimsical-starlight-dbf542.netlify.app/" className={styles.imageLink} onMouseEnter={() => handleMouseEnter(2)} onMouseLeave={() => handleMouseLeave(2)}>
                   <motion.img
                     whileHover={{ opacity: 0.7 }}
                     initial={{ opacity: 1 }}
@@ -86,7 +86,7 @@ const Project = () => {
                 <motion.h1 whileInView={{ opacity: 1, x: 0 }}
                     initial={{ opacity: 0, x: -100 }}
                     transition={{ duration: 1}} className='mb-2 font-semibold'>Fc Barcelona clone</motion.h1>
-                <a href="src/Other/FCB/Fc Barcelona clone/Index.html" className={styles.imageLink} onMouseEnter={() => handleMouseEnter(3)} onMouseLeave={() => handleMouseLeave(3)}>
+                <a href="https://663f9f57c06afe0f19214ccf--whimsical-starlight-dbf542.netlify.app/" className={styles.imageLink} onMouseEnter={() => handleMouseEnter(3)} onMouseLeave={() => handleMouseLeave(3)}>
                   <motion.img
                     whileHover={{ opacity: 0.7 }}
                     initial={{ opacity: 1 }}
