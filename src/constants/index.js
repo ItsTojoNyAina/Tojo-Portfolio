@@ -34,6 +34,20 @@ export const EXPERIENCES = [
     description: `Creation of a mini Facebook clone as a training for a new techno.`,
     technologies: ["Php","Django"],
   },
+  {
+    year: "2024",
+    role: "Front and Back-End Developer",
+    company: "Paypal",
+    description: `banking Management system`,
+    technologies: ["CodeIgniter 4"],
+  },
+  {
+    year: "2024",
+    role: "Front and Back-End Developer",
+    company: "Paypal",
+    description: `Creation of a Whisky and Rhum selling Website.`,
+    technologies: ["ReactJS","NodeJS","Express","MySql","Rest API"],
+  },
 ];
 
 
